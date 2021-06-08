@@ -1,3 +1,3 @@
-# Simple-Stopwatch
-This a Stopwatch made on Html and Js . 
+# CatWalk
+This a Cat Walking Animation made on Html and Js . 
 
